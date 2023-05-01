@@ -14,9 +14,28 @@ website:
   navbar:
     background: primary
     search: true
+    collapse-below: lg
+    left:
+      - text: "Get Started"
+        href: index.ipynb
+      - text: "Tutorial"
+        href: index.ipynb
+      - text: "Blog"
+        href: index.ipynb
+      - text: "Help"
+        menu:
+          - text: "Report an Issue"
+            icon: bug
+            href: https://github.com/fastai/nbdev/issues
+          - text: "Fast.ai Forum"
+            icon: chat-right-text
+            href: https://forums.fast.ai/
+          - text: "FAQ"
+            icon: question-circle
+            href: getting_started.ipynb#faq
     right:
       - icon: github
-        href: "https://github.com/fastai/nbdev"
+        href: "https://github.com/nextrick/Deep-Learning"
   sidebar:
     style: floating
 
