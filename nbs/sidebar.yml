@@ -2,6 +2,5 @@ website:
   sidebar:
     style: floating
     contents:
-      - auto: index.ipynb
-      - section: Tutorial
-        contents: 00_core.ipynb
+      index.ipynb
+      00_core.ipynb
