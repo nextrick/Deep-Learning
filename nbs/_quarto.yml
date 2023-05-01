@@ -16,7 +16,7 @@ website:
     contents:
       - auto: "/*.ipynb"
       - section: Tutorials
-        contents: tutorials/*
+        contents: tutorial/*
   navbar:
     background: primary
     search: true
@@ -45,4 +45,4 @@ website:
 
 
 
-metadata-files: [nbdev.yml,sidebar.yml]
+metadata-files: [nbdev.yml]
