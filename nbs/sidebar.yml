@@ -1,5 +1,5 @@
 website:
   style: floating
   contents:
-    index.ipynb
-    00_core.ipynb
+    - index.ipynb
+    - 00_core.ipynb
