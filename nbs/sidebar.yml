@@ -1,6 +1,0 @@
-website:
-  sidebar:
-    style: floating
-    contents:
-      index.ipynb
-      00_core.ipynb
