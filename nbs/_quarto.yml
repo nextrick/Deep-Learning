@@ -27,7 +27,7 @@ website:
       - text: "Get Started"
         href: index.ipynb
       - text: "Tutorial"
-        href: tutorial/lesson1-part1.ipynb
+        href: tutorial/lesson1-part1.html
       - text: "Blog"
         href: index.ipynb
       - text: "Help"
