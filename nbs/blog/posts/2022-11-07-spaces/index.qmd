@@ -1,13 +1,13 @@
 ---
 title: "About"
+image: profile.jpg
 index:
-    image: profile.jpg
-    template: jolla
-    links:
-        - icon: twitter
-        text: Twitter
-        href: https://twitter.com
-        # (additional links excluded for brevity)
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    # (additional links excluded for brevity)
 ---
 
 ## About this blog
