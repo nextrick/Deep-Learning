@@ -14,9 +14,11 @@ website:
   sidebar:
     style: floating
     contents:
-      - auto: "/*.ipynb"
+      - auto: /*.ipynb
       - section: Tutorials
         contents: tutorial/*
+      - section: Live-Coding
+        contents: Live-Coding/*
   navbar:
     background: primary
     search: true
@@ -25,17 +27,17 @@ website:
       - text: "Get Started"
         href: index.ipynb
       - text: "Tutorial"
-        href: index.ipynb
+        href: tutorials/Lesson1-Part1.ipynb
       - text: "Blog"
         href: index.ipynb
       - text: "Help"
         menu:
           - text: "Report an Issue"
             icon: bug
-            href: https://github.com/fastai/nbdev/issues
+            href: https://github.com/nextric/Deep-Learning/issues
           - text: "Fast.ai Forum"
             icon: chat-right-text
-            href: https://forums.fast.ai/
+            href: https://nextrick.freeflarum.com/
           - text: "FAQ"
             icon: question-circle
             href: getting_started.ipynb#faq
