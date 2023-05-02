@@ -35,7 +35,7 @@ website:
           - text: "Report an Issue"
             icon: bug
             href: https://github.com/nextric/Deep-Learning/issues
-          - text: "Fast.ai Forum"
+          - text: "Nextrick Forum"
             icon: chat-right-text
             href: https://nextrick.freeflarum.com/
           - text: "FAQ"
