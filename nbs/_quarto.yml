@@ -14,7 +14,7 @@ website:
   sidebar:
     style: floating
     contents:
-      - auto: /*.ipynb
+      - auto: "/*.ipynb"
       - section: Tutorials
         contents: tutorial/*
       - section: Live-Coding
