@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: grahic_design.png
 index:
   template: jolla
   links:
@@ -10,6 +10,9 @@ index:
     # (additional links excluded for brevity)
 ---
 
-## About this blog
+## Graphic Designing Show-Case
 
-This is the contents of the about page for my blog.
+This blog is about our team related different projects of graphic designing
+
+### Zobia-Work
+This work is one of our team member zobia
