@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: grahic_design.png
+image: graphic_design.png
 index:
   template: jolla
   links:
