@@ -31,7 +31,7 @@ website:
       - text: "Blog"
         menu:
         - text: "Graphic-Design"
-          href: blog/index.qmd
+          href: blog/graphic_design/index.qmd
       - text: "Help"
         menu:
           - text: "Report an Issue"
