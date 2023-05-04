@@ -28,8 +28,9 @@ website:
         href: index.ipynb
       - text: "Tutorial"
         href: tutorial/02_Lesson1-Part1.ipynb
-      - text: "Blog"
-        href: blog/index.qmd
+        menu:
+        - text: "Graphic-Design"
+          href: blog/index.qmd
       - text: "Help"
         menu:
           - text: "Report an Issue"
