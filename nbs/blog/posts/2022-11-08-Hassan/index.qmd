@@ -1,0 +1,19 @@
+---
+title: "About"
+image: graphic-design.avif
+index:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    # (additional links excluded for brevity)
+---
+
+## Graphic Designing Show-Case
+
+This blog is about our team related different projects of graphic designing
+
+### Zobia-Work
+This work is one of our team member zobia
+![Alt text](graphic-design.avif)
