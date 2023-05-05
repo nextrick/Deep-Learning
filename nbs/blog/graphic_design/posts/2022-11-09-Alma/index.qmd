@@ -11,8 +11,26 @@ index:
 ---
 
 ## Graphic Designing Show-Case
+⭐ Creative and Responsible Graphic Designer, I'm here to help you on the RIGHT PATH to increase your business's effectiveness through attractive designs.
 
-This blog is about our team related different projects of graphic designing
+🚀 Wide knowledge of layout principles and esthetic design concepts. Familiar with Photoshop, Illustrator, Sound creative, design, and visualization skills. Passion for keeping clients satisfied with each project.
+
+✔️ BA. Business Administration
+✔️ 3 years of work experience as a graphic designer
+✔️ 2 years of work experience as a content writer
+✔️ 2 years of work experience managing social media pages
+
+✅ I have helped many pages as a Creative graphic designer with innovative ideas and a unique visual approach: I have excellent drawing and sketching skills.
+
+Here are the skills that I can offer:
+
+✅adope photoshop
+✅adope illustrator
+✅social media designs
+✅content writing
+✅photo editing
+
+⭐ Commitment and dedication are essential in my work, and your success is my main goal.
 
 ### Logos
 
@@ -34,22 +52,22 @@ This blog is about our team related different projects of graphic designing
 <p>Here you can see the work I have done for Reels</p>
 
 <ul>
-  <li style="float:left;"><img align="left" width="240" height="200" src="designs/1.jpg"/>  
+  <li style="float:left;"><img align="left" width="340" height="400" src="designs/1.jpg"/>  
   </li>
 
-  <li style="float:left;"><img align="left" src="designs/2.jpg" width="240" height="200" allow="autoplay"></iframe>  
+  <li style="float:left;"><img align="left" src="designs/2.jpg" width="340" height="400" >
   </li>
 
-   <li style="float:left;"><img align="left" width="240" height="200" src="designs/3.jpg"/>  
+   <li style="float:left;"><img align="left" width="340" height="400" src="designs/3.jpg"/>  
   </li>
 
-  <li style="float:left;"><img align="left" src="designs/4.jpg" width="240" height="200" allow="autoplay"></iframe>  
+  <li style="float:left;"><img align="left" src="designs/4.jpg" width="340" height="400">
   </li>
 
-  <li style="float:left;"><img align="left" width="240" height="200" src="designs/5.jpg"/>  
+  <li style="float:left;"><img align="left" width="340" height="400" src="designs/5.jpg"/>  
   </li>
 
-  <li style="float:left;"><img align="left" src="designs/6.jpg" width="240" height="200" allow="autoplay"></iframe>  
+  <li style="float:left;"><img align="left" src="designs/6.png" width="340" height="400" >
   </li>
 
 </ul>
