@@ -1,6 +1,6 @@
 ---
-title: nbdev Blog
-subtitle: News, tips, and commentary about all things nbdev
+title: Team Work Showcase
+subtitle: Here we have shown our teams work on different graphic design related project
 listing:
   sort: "date desc"
   contents: "posts"
