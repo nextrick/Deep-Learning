@@ -26,3 +26,30 @@ This blog is about our team related different projects of graphic designing
   </li>
 
 </ul>
+
+
+
+### Designs
+
+<p>Here you can see the work I have done for Reels</p>
+
+<ul>
+  <li style="float:left;"><img align="left" src="designs/1.jpeg"/>  
+  </li>
+
+  <li style="float:left;"><img align="left" src="designs/2.jpeg" width="340" height="280" allow="autoplay"></iframe>  
+  </li>
+
+   <li style="float:left;"><img align="left" src="designs/3.jpeg"/>  
+  </li>
+
+  <li style="float:left;"><img align="left" src="designs/4.jpeg" width="340" height="280" allow="autoplay"></iframe>  
+  </li>
+
+  <li style="float:left;"><img align="left" src="designs/5.jpeg"/>  
+  </li>
+
+  <li style="float:left;"><img align="left" src="designs/6.jpeg" width="340" height="280" allow="autoplay"></iframe>  
+  </li>
+
+</ul>
