@@ -29,8 +29,7 @@ This blog is about our team related different projects of graphic designing
 
 
 <div class="w3-content w3-display-container">
-  <img class="mySlides" src="https://drive.google.com/file/d/1icWcHV4ywm7j3zx5hJzdbibqlBLij9Sw/view?usp=share_link" style="width:100%">
-  <img class="mySlides" src="https://drive.google.com/file/d/1JdQ6FKd8xodDJ6Y_v9sUJDR2o34RVcjK/view" style="width:100%">
+  <iframe src="https://drive.google.com/file/d/1JdQ6FKd8xodDJ6Y_v9sUJDR2o34RVcjK/preview" width="240" height="280" allow="autoplay"></iframe>  <img class="mySlides" src="https://drive.google.com/file/d/1JdQ6FKd8xodDJ6Y_v9sUJDR2o34RVcjK/view" style="width:100%">
   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
 </div>
