@@ -1,5 +1,5 @@
 ---
-title: Team Work Showcase
+title: Team Work Graphic-Design
 subtitle: Here we have shown our teams work on different graphic design related project
 listing:
   sort: "date desc"
