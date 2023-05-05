@@ -18,11 +18,11 @@ This blog is about our team related different projects of graphic designing
 
 <p>Here you can see the work I have done for Reels</p>
 
-<ol>
+<ul>
   <li style="float:left;"><iframe src="https://drive.google.com/file/d/1JdQ6FKd8xodDJ6Y_v9sUJDR2o34RVcjK/preview" width="340" height="280" allow="autoplay"></iframe>  
   </li>
 
   <li style="float:left;"><iframe src="https://drive.google.com/file/d/1icWcHV4ywm7j3zx5hJzdbibqlBLij9Sw/preview" width="340" height="280" allow="autoplay"></iframe>  
   </li>
 
-</ol>
+</ul>
