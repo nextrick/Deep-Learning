@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: graphic-design.avif
+title: "Rabia's Work"
+image: graphic_design.png
 index:
   template: jolla
   links:

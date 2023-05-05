@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: graphic_design.png
+title: "Alma's Work"
+image: 1.jpeg
 index:
   template: jolla
   links:
@@ -16,4 +16,9 @@ This blog is about our team related different projects of graphic designing
 
 ### Zobia-Work
 This work is one of our team member zobia
-![Alt text](graphic-design.avif)
+<h1>The figure and figcaption element</h1>
+
+<figure>
+  <img src="1.jpeg" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
