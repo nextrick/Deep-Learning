@@ -1,6 +1,6 @@
 ---
 title: "Alma's Work"
-image: 1.jpeg
+image: profile.jpeg
 index:
   template: jolla
   links:
