@@ -1,0 +1,24 @@
+---
+title: "About"
+image: 1.jpeg
+index:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    # (additional links excluded for brevity)
+---
+
+## Graphic Designing Show-Case
+
+This blog is about our team related different projects of graphic designing
+
+### Zobia-Work
+This work is one of our team member zobia
+<h1>The figure and figcaption element</h1>
+
+<figure>
+  <img src="1.jpeg" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
