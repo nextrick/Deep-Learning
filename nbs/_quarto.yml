@@ -24,8 +24,8 @@ website:
     search: true
     collapse-below: lg
     left:
-      - text: "Get Started"
-        href: index.ipynb
+      - text: "Homepage"
+        href: "https://nextrick.github.io/website/"
       - text: "Tutorial"
         href: tutorial/02_Lesson1-Part1.ipynb
       - text: "Blog"
@@ -46,8 +46,8 @@ website:
     right:
       - icon: github
         href: "https://github.com/nextrick/Deep-Learning"
-#      - icon: twitter
-#        href: "https://twitter.com/Nextrickdotit"
+      - icon: twitter
+        href: "https://twitter.com/Nextrickdotit"
 
 
 
