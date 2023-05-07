@@ -26,6 +26,8 @@ website:
     left:
       - text: "Homepage"
         href: "https://nextrick.github.io/website/"
+      - text: "Get Started"
+        href: index.ipynb
       - text: "Tutorial"
         href: tutorial/02_Lesson1-Part1.ipynb
       - text: "Blog"
