@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "Deep-Learning"
-  site-url: "https://nextrick.github.io/Deep-Learning"
+  title: "Nextrick"
+  site-url: "https://nextrick.github.io/website"
   description: "this is lecture series of deep learning"
   repo-branch: main
   repo-url: "https://github.com/nextrick/Deep-Learning"
