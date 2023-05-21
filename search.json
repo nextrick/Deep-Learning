@@ -1,0 +1,415 @@
+[
+  {
+    "objectID": "Live-Coding/practice-session1.html",
+    "href": "Live-Coding/practice-session1.html",
+    "title": "Practice Session 1",
+    "section": "",
+    "text": "Image classification is an exciting field of study that can help us understand the world around us better. In this lesson, we discuss how to build a vision learner by fastai library, which is a powerful tool for image classification."
+  },
+  {
+    "objectID": "Live-Coding/practice-session1.html#acknowledgements",
+    "href": "Live-Coding/practice-session1.html#acknowledgements",
+    "title": "Practice Session 1",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "Live-Coding/practice-session4.html",
+    "href": "Live-Coding/practice-session4.html",
+    "title": "Practice Session 4",
+    "section": "",
+    "text": "In this video, I explain linear regression using the fastai library. Linear regression is a powerful tool for predicting continuous values from data. It can be used to predict things like stock prices or housing prices based on past data points. I then give an intuition about how to use the fastai library for deployment."
+  },
+  {
+    "objectID": "Live-Coding/practice-session4.html#video",
+    "href": "Live-Coding/practice-session4.html#video",
+    "title": "Practice Session 4",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "Live-Coding/practice-session4.html#objectives",
+    "href": "Live-Coding/practice-session4.html#objectives",
+    "title": "Practice Session 4",
+    "section": "Objectives:",
+    "text": "Objectives:\n\nLinear Regression\nStochastic Gradient Descent and Gradient Descent\nDeployment with fastai"
+  },
+  {
+    "objectID": "Live-Coding/practice-session4.html#highlights",
+    "href": "Live-Coding/practice-session4.html#highlights",
+    "title": "Practice Session 4",
+    "section": "Highlights:",
+    "text": "Highlights:\n\nRemaking walkwithfasta course ( https://walkwithfastai.com/ )\nLesson Two – Part-1: Linear Regression and Deployment"
+  },
+  {
+    "objectID": "Live-Coding/practice-session4.html#resources",
+    "href": "Live-Coding/practice-session4.html#resources",
+    "title": "Practice Session 4",
+    "section": "Resources:",
+    "text": "Resources:\n\nhttps://drive.google.com/drive/folders/1NdboVzKiRyN_Q8UgQfwkDVuH_4flMb-H\nhttps://drive.google.com/drive/folders/1wp9jCBaYs5UzMxR3abBnfQE3CtBQXlrX\nhttps://colab.research.google.com/github/muellerzr/Practical-Deep-Learning-for-Coders-2.0/blob/master/Computer%20Vision/02_Deployment.ipynb\nhttps://walkwithfastai.com/Introduction"
+  },
+  {
+    "objectID": "Live-Coding/practice-session6.html",
+    "href": "Live-Coding/practice-session6.html",
+    "title": "Practice Session 6",
+    "section": "",
+    "text": "In this video, I have demonstrated cross validation through an example and then showed you how to implement it in code using the Sklearn library. Cross validation is a powerful technique for evaluating machine learning models by splitting data into training and test sets multiple times. This ensures that each set of data is used as both a training set and a testing set."
+  },
+  {
+    "objectID": "Live-Coding/practice-session6.html#video",
+    "href": "Live-Coding/practice-session6.html#video",
+    "title": "Practice Session 6",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "Live-Coding/practice-session6.html#objectives",
+    "href": "Live-Coding/practice-session6.html#objectives",
+    "title": "Practice Session 6",
+    "section": "Objectives:",
+    "text": "Objectives:\n\nExplaining Cross Validation\nCross Validation with scikit-learn"
+  },
+  {
+    "objectID": "Live-Coding/practice-session6.html#highlights",
+    "href": "Live-Coding/practice-session6.html#highlights",
+    "title": "Practice Session 6",
+    "section": "Highlights:",
+    "text": "Highlights:\n\nRemaking walkwithfasta course ( https://walkwithfastai.com/ )\nLesson Three - Part 2: Cross Validation"
+  },
+  {
+    "objectID": "Live-Coding/practice-session6.html#resources",
+    "href": "Live-Coding/practice-session6.html#resources",
+    "title": "Practice Session 6",
+    "section": "Resources:",
+    "text": "Resources:\n\nhttps://drive.google.com/file/d/116YbPfaYli3XilPxRKloYd3sZmKT-ozT/view?usp=sharing\nhttps://docs.google.com/presentation/d/1DMQg-yISwmR_TwGcmVAfSCG0OJPUND2T/edit#slide=id.p1"
+  },
+  {
+    "objectID": "Live-Coding/practice-session2.html",
+    "href": "Live-Coding/practice-session2.html",
+    "title": "Practice Session 2",
+    "section": "",
+    "text": "The goal of this project is to build a cat family classification model using convolutional neural networks (CNN) and the Fast.ai library. This model will be able to accurately classify between lion, tiger, cougar, caracal, cheetah and ocelot images. We will use transfer learning with a pre-trained ResNet34 architecture as our base for training the model on our dataset of cats from each species in order to achieve high accuracy results quickly and efficiently."
+  },
+  {
+    "objectID": "Live-Coding/practice-session2.html#acknowledgements",
+    "href": "Live-Coding/practice-session2.html#acknowledgements",
+    "title": "Practice Session 2",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "Live-Coding/practice-session5.html",
+    "href": "Live-Coding/practice-session5.html",
+    "title": "Practice Session 5",
+    "section": "",
+    "text": "In this video, I have explained multi label classification and how to make our model recognizing unknown images with the fastai library."
+  },
+  {
+    "objectID": "Live-Coding/practice-session5.html#video",
+    "href": "Live-Coding/practice-session5.html#video",
+    "title": "Practice Session 5",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "Live-Coding/practice-session5.html#objectives",
+    "href": "Live-Coding/practice-session5.html#objectives",
+    "title": "Practice Session 5",
+    "section": "Objectives:",
+    "text": "Objectives:\n\nMulti-Label Classification\nRecognizing Unknown Images"
+  },
+  {
+    "objectID": "Live-Coding/practice-session5.html#highlights",
+    "href": "Live-Coding/practice-session5.html#highlights",
+    "title": "Practice Session 5",
+    "section": "Highlights:",
+    "text": "Highlights:\n\nRemaking walkwithfasta course ( https://walkwithfastai.com/ )\nLesson Three - Part 1: Multi-label Classification & Unknown Label"
+  },
+  {
+    "objectID": "Live-Coding/practice-session5.html#resources",
+    "href": "Live-Coding/practice-session5.html#resources",
+    "title": "Practice Session 5",
+    "section": "Resources:",
+    "text": "Resources:\n\nhttps://docs.google.com/presentation/d/1yDgScGDOVwpYqe7vr-m4rBLzWg5EZsiG/edit#slide=id.p1\nhttps://drive.google.com/file/d/1qUtP4S-E_IYl3S6k1AqBS2H7XsbnxbGL/view"
+  },
+  {
+    "objectID": "Live-Coding/practice-session3.html",
+    "href": "Live-Coding/practice-session3.html",
+    "title": "Practice Session 3",
+    "section": "",
+    "text": "In this video, I explain image classification from scratch and show how to build a custom model with PyTorch code. Then, I demonstrate how to simplify the model by using the fastai library. Finally, I introduce the ResNet architecture and rebuild our model with it. This process gives us insight into building models for image classification tasks from start to finish while exploring different architectures along the way."
+  },
+  {
+    "objectID": "Live-Coding/practice-session3.html#acknowledgements",
+    "href": "Live-Coding/practice-session3.html#acknowledgements",
+    "title": "Practice Session 3",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "blog/graphic_design/index.html",
+    "href": "blog/graphic_design/index.html",
+    "title": "Graphic-Designing",
+    "section": "",
+    "text": "Zobia’s Work\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nAmal’s Work\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nRabia’s Work\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/graphic_design/posts/2022-11-08-Zobia/index.html",
+    "href": "blog/graphic_design/posts/2022-11-08-Zobia/index.html",
+    "title": "Zobia’s Work",
+    "section": "",
+    "text": "This blog is about our team related different projects of graphic designing\n\n\nZobia is our company professional Graphic Designer Dynamic and innovative professional with 3t years of invaluable hands-on experience in handling several simultaneous creative design projects, concept creation, and graphic design. animation. and visual conceptualization. Equipped with the ability to escalate brand awareness by utilizing skills gained in the creative industry, able to identify opportunities, and overcome objections. bui ld long-term mutually beneficial relationships with vendors, workforce and establishing a successful and lucrative company.\nVisit Website here !"
+  },
+  {
+    "objectID": "blog/graphic_design/posts/2022-11-08-Zobia/index.html#graphic-designing-show-case",
+    "href": "blog/graphic_design/posts/2022-11-08-Zobia/index.html#graphic-designing-show-case",
+    "title": "Zobia’s Work",
+    "section": "",
+    "text": "This blog is about our team related different projects of graphic designing\n\n\nZobia is our company professional Graphic Designer Dynamic and innovative professional with 3t years of invaluable hands-on experience in handling several simultaneous creative design projects, concept creation, and graphic design. animation. and visual conceptualization. Equipped with the ability to escalate brand awareness by utilizing skills gained in the creative industry, able to identify opportunities, and overcome objections. bui ld long-term mutually beneficial relationships with vendors, workforce and establishing a successful and lucrative company.\nVisit Website here !"
+  },
+  {
+    "objectID": "blog/graphic_design/posts/2022-11-09-Amal/index.html",
+    "href": "blog/graphic_design/posts/2022-11-09-Amal/index.html",
+    "title": "Amal’s Work",
+    "section": "",
+    "text": "⭐ Creative and Responsible Graphic Designer, I’m here to help you on the RIGHT PATH to increase your business’s effectiveness through attractive designs.\n🚀 Wide knowledge of layout principles and esthetic design concepts. Familiar with Photoshop, Illustrator, Sound creative, design, and visualization skills. Passion for keeping clients satisfied with each project.\n✔️ BA. Business Administration\n✔️ 3 years of work experience as a graphic designer\n✔️ 2 years of work experience as a content writer\n✔️ 2 years of work experience managing social media pages\n✅ I have helped many pages as a Creative graphic designer with innovative ideas and a unique visual approach: I have excellent drawing and sketching skills.\nHere are the skills that I can offer:\n✅adope photoshop\n✅adope illustrator\n✅social media designs\n✅content writing\n✅photo editing\n⭐ Commitment and dedication are essential in my work, and your success is my main goal.\n\n\n\nHere you can see the work I have done for Reels\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHere you can see the work I have done for Reels"
+  },
+  {
+    "objectID": "blog/graphic_design/posts/2022-11-09-Amal/index.html#graphic-designing-show-case",
+    "href": "blog/graphic_design/posts/2022-11-09-Amal/index.html#graphic-designing-show-case",
+    "title": "Amal’s Work",
+    "section": "",
+    "text": "⭐ Creative and Responsible Graphic Designer, I’m here to help you on the RIGHT PATH to increase your business’s effectiveness through attractive designs.\n🚀 Wide knowledge of layout principles and esthetic design concepts. Familiar with Photoshop, Illustrator, Sound creative, design, and visualization skills. Passion for keeping clients satisfied with each project.\n✔️ BA. Business Administration\n✔️ 3 years of work experience as a graphic designer\n✔️ 2 years of work experience as a content writer\n✔️ 2 years of work experience managing social media pages\n✅ I have helped many pages as a Creative graphic designer with innovative ideas and a unique visual approach: I have excellent drawing and sketching skills.\nHere are the skills that I can offer:\n✅adope photoshop\n✅adope illustrator\n✅social media designs\n✅content writing\n✅photo editing\n⭐ Commitment and dedication are essential in my work, and your success is my main goal.\n\n\n\nHere you can see the work I have done for Reels\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHere you can see the work I have done for Reels"
+  },
+  {
+    "objectID": "blog/graphic_design/posts/2022-11-07-Rabia/index.html",
+    "href": "blog/graphic_design/posts/2022-11-07-Rabia/index.html",
+    "title": "Rabia’s Work",
+    "section": "",
+    "text": "This blog is about our team related different projects of graphic designing\n\n\nThis work is one of our team member zobia"
+  },
+  {
+    "objectID": "blog/graphic_design/posts/2022-11-07-Rabia/index.html#graphic-designing-show-case",
+    "href": "blog/graphic_design/posts/2022-11-07-Rabia/index.html#graphic-designing-show-case",
+    "title": "Rabia’s Work",
+    "section": "",
+    "text": "This blog is about our team related different projects of graphic designing\n\n\nThis work is one of our team member zobia"
+  },
+  {
+    "objectID": "tutorial/lesson0.html",
+    "href": "tutorial/lesson0.html",
+    "title": "Lesson0-start",
+    "section": "",
+    "text": "This is Introductory video about this course. We have first look to how to create a classification system with fastai."
+  },
+  {
+    "objectID": "tutorial/lesson0.html#acknowledgements",
+    "href": "tutorial/lesson0.html#acknowledgements",
+    "title": "Lesson0-start",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "tutorial/lesson2-part2.html",
+    "href": "tutorial/lesson2-part2.html",
+    "title": "Lesson2-Part2",
+    "section": "",
+    "text": "This is about Deployment."
+  },
+  {
+    "objectID": "tutorial/lesson2-part2.html#readings",
+    "href": "tutorial/lesson2-part2.html#readings",
+    "title": "Lesson2-Part2",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\nTo Download Click Here\n\n\n\n\n\nNotes (Part 2)\n\n\n \n\n\nTanishq Abraham Gradio and Hugging Face Blog\n\nThis is tutorial about deploying Jupyter Notebook with HuggingFace.\n\n\n\n\n\n\n\n \n\n\nBook: Chapter-2 Production (ipynb)\n\nThis is updated version of Chapter 2 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson\nAmazon Book\nFree Book Version\nCollab Setup\nShare Your Work\nConfusion Matrix : Pet Breed Classification\nChapter 2: Production\nTanishq Blog: HuggingFace and Gradio\nHuggingFace Spaces\nGithub Desktop\nMicrosoftApp Terminal\nTerminal Installation Command : WSL\nHuggingFace App by Jeremy\nForums Lesson2 Official Topic\nKaggle Forums Lesson2 Link\nColab Forums Lesson2 Link\nDocumentation Fastai\n\n  &lt;== Lesson2-Part1                                                 Lesson2-Part3 ==&gt;"
+  },
+  {
+    "objectID": "tutorial/lesson2-part2.html#acknowledgements",
+    "href": "tutorial/lesson2-part2.html#acknowledgements",
+    "title": "Lesson2-Part2",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "tutorial/lesson2-part1.html",
+    "href": "tutorial/lesson2-part1.html",
+    "title": "Lesson2-Part1",
+    "section": "",
+    "text": "This is about Deployment."
+  },
+  {
+    "objectID": "tutorial/lesson2-part1.html#readings",
+    "href": "tutorial/lesson2-part1.html#readings",
+    "title": "Lesson2-Part1",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\nTo Download Click Here\n\n\n\n\n\nNotes (Part 1)\n\n\n\n\nBook: Chapter-2 Production (ipynb)\n\nThis is updated version of Chapter 2 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson Video\nMedium.com Blog\nAmazon Book\nBook With Colab\nAiQuizzes\nForums Lesson 1 Official Topic\nForums Share Your Work\nDeployed Application With Hugging Face\nJupyter Notebook Extensions\nFastbook Free\nChapter 2 - Fastbook\nComputer Vision Model\nDocumentation of fastai\n\n  &lt;== Lesson1-Part5                                                 Lesson2-Part2 ==&gt;"
+  },
+  {
+    "objectID": "tutorial/lesson2-part1.html#acknowledgements",
+    "href": "tutorial/lesson2-part1.html#acknowledgements",
+    "title": "Lesson2-Part1",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "tutorial/lesson1-part2.html",
+    "href": "tutorial/lesson1-part2.html",
+    "title": "Lesson1-Part2",
+    "section": "",
+    "text": "This is Introductory video about this course. We have discussed about applications of deep learning , Philosophy of the course and About creator of the course Jeremy Howard."
+  },
+  {
+    "objectID": "tutorial/lesson1-part2.html#readings",
+    "href": "tutorial/lesson1-part2.html#readings",
+    "title": "Lesson1-Part2",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\n\n\n\nNotes\n\nClick to Top right icon to download notes.\n\n\n\n\n\nChapter 1 Book\n\nThis is updated version of Chapter 1 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nData Ethics Course\nCups.fast.ai\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\n\n  &lt;== Lesson1-Part1                                                 Lesson1-Part3 ==&gt;"
+  },
+  {
+    "objectID": "tutorial/lesson1-part2.html#acknowledgements",
+    "href": "tutorial/lesson1-part2.html#acknowledgements",
+    "title": "Lesson1-Part2",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "tutorial/lesson1-part1.html",
+    "href": "tutorial/lesson1-part1.html",
+    "title": "Lesson1-Part1",
+    "section": "",
+    "text": "This is Introductory video about this course.We have first look to how to create a classification system with fastai."
+  },
+  {
+    "objectID": "tutorial/lesson1-part1.html#readings",
+    "href": "tutorial/lesson1-part1.html#readings",
+    "title": "Lesson1-Part1",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full \n\n\n\nNotes\n\nClick to Top right icon to download notes.\n\n\n\n\n\nChapter 1 Book\n\nThis is updated version of Chapter 1 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources\n\nSlides and Lecture Notes\nOriginal Video Lesson\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nData Ethics Course\nCups.fast.ai\nFast.ai Course 2017\nULMfit Paper With Code\nPython Notebook\nMedium.com Article Blog\n\n  &lt;== Lesson0                                                 Lesson1-Part2 ==&gt;"
+  },
+  {
+    "objectID": "tutorial/lesson1-part1.html#acknowledgements",
+    "href": "tutorial/lesson1-part1.html#acknowledgements",
+    "title": "Lesson1-Part1",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "tutorial/lesson3-part1.html",
+    "href": "tutorial/lesson3-part1.html",
+    "title": "Lesson3-Part1",
+    "section": "",
+    "text": "Uploading Soon!"
+  },
+  {
+    "objectID": "tutorial/lesson2-part3.html",
+    "href": "tutorial/lesson2-part3.html",
+    "title": "Lesson2-Part3",
+    "section": "",
+    "text": "This is about Deployment."
+  },
+  {
+    "objectID": "tutorial/lesson2-part3.html#readings",
+    "href": "tutorial/lesson2-part3.html#readings",
+    "title": "Lesson2-Part3",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\nTo Download Click Here\n\n\n\n\n\nNotes (Part 3)\n\n\n\n\nBook: Chapter-2 Production (ipynb)\n\nThis is updated version of Chapter 2 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson\nAmazon Book\nFree Book Version\nCollab Setup\nShare Your Work\nChapter 2: Production\nGithub Pages\nTanishq Blog: HuggingFace and Gradio\nHuggingFace Spaces\nFastpages\nForums Lesson2 Official Topic\nKaggle Lesson2 Link\nColab Lesson2 Link\nDocumentation Fastai\n\n  &lt;== Lesson2-Part2                                                 Lesson3-Part1 ==&gt;"
+  },
+  {
+    "objectID": "tutorial/lesson2-part3.html#acknowledgements",
+    "href": "tutorial/lesson2-part3.html#acknowledgements",
+    "title": "Lesson2-Part3",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "tutorial/lesson1-part5.html#readings",
+    "href": "tutorial/lesson1-part5.html#readings",
+    "title": "Lesson1-Part5",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\n\n\n\nNotes (Part 5)\n\nClick to Top right icon to download notes.\n\n\n\n\n\nChapter 1 Book\n\nThis is updated version of Chapter 1 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson Video\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nThe Pytorch Image Model\nfast.ai Library Documentation\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\nKaggle Notebook Jhoward\nKaggle Notebook Is it a Bird Classifier\nTabular Model\nCollaborative Filtering\nRise Extension Jupyter Notebook\nFastpages Fast.ai\nTesting Fast.ai\nShare Your Work Fast.ai\nGraphviz Extension\n\n  &lt;== Lesson1-Part4                                                 Lesson2-Part1 ==&gt;"
+  },
+  {
+    "objectID": "tutorial/lesson1-part5.html#acknowledgements",
+    "href": "tutorial/lesson1-part5.html#acknowledgements",
+    "title": "Lesson1-Part5",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "tutorial/lesson1-part4.html#readings",
+    "href": "tutorial/lesson1-part4.html#readings",
+    "title": "Lesson1-Part4",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\n\n\n\nNotes (Part 4)\n\nClick to Top right icon to download notes.\n\n\n\n\n\nChapter 1 Book\n\nThis is updated version of Chapter 1 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson Video\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nThe Pytorch Image Model\nfast.ai Library Documentation\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\nKaggle Notebook Jhoward\nKaggle Notebook Is it a Bird Classifier\n\n  &lt;== Lesson1-Part3                                                 Lesson1-Part5 ==&gt;"
+  },
+  {
+    "objectID": "tutorial/lesson1-part4.html#acknowledgements",
+    "href": "tutorial/lesson1-part4.html#acknowledgements",
+    "title": "Lesson1-Part4",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "tutorial/lesson1-part3.html",
+    "href": "tutorial/lesson1-part3.html",
+    "title": "Lesson1-Part3",
+    "section": "",
+    "text": "This Lecture discusses about history of deep learning , framework and Jupyter notebook."
+  },
+  {
+    "objectID": "tutorial/lesson1-part3.html#readings",
+    "href": "tutorial/lesson1-part3.html#readings",
+    "title": "Lesson1-Part3",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\n\n\n\nNotes (Part 3)\n\nClick to Top right icon to download notes.\n\n\n\n\n\nChapter 1 Book\n\nThis is updated version of Chapter 1 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources\n\nSlides and Notes\nOriginal Lesson Video\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nData Ethics Course\nCups.fast.ai\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\nJhoward Kaggle Notebooks\nNotebook 101 Get Start\n\n  &lt;== Lesson1-Part2                                                 Lesson1-Part4 ==&gt;"
+  },
+  {
+    "objectID": "tutorial/lesson1-part3.html#acknowledgements",
+    "href": "tutorial/lesson1-part3.html#acknowledgements",
+    "title": "Lesson1-Part3",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Deep Learning (0 to 1)",
+    "section": "",
+    "text": "A free course of deep learning extended version of  fast.ai \n\n\n\nIt is designed for anyone who want to get into deep learning. You can learn from beginning to advance level. This is extended version contains detailed explanation of each lesson the original course with addition of notes and more resources."
+  },
+  {
+    "objectID": "index.html#get-started",
+    "href": "index.html#get-started",
+    "title": "Deep Learning (0 to 1)",
+    "section": "Get Started",
+    "text": "Get Started\n\nLesson 1\n\nNews and Updates\nWe are launching Chatgpt Tutorial series"
+  },
+  {
+    "objectID": "index.html#co-instructor",
+    "href": "index.html#co-instructor",
+    "title": "Deep Learning (0 to 1)",
+    "section": "Co-Instructor",
+    "text": "Co-Instructor\n\n\n\n\n\nHello, My Name is Hafiz Ahmad Hassan. I am your mentor in the path of deep learning. To summarize I studied Bachelors in Computer Science from FAST-NUCES and Masters from University of Verona.\n\n\nMy first article on Skin Lesion Classification System during bachelors published on ICGHIT South Korea. I worked as Researcher at WEISS Surgical Robot Vision Group University College London in the field of Surgical Data Science. Later I joined Mig-Mit NGO in Germany. Currently I am working as Computer Scince Instructor at H-Farm International School Italy.\n\n\nI have an interest in deep learning, Machine Learning espacially its application in field of Medicine.\n\n\n\nLessons Link\n\n\nLesson 1 : part1 part2 part3 part4 part5\n\n\nLesson 2 : part1 part2 part3\n\n\nLesson 3 : part 1 (Uploading Soon)"
+  },
+  {
+    "objectID": "index.html#co-instructor-1",
+    "href": "index.html#co-instructor-1",
+    "title": "Deep Learning (0 to 1)",
+    "section": "Co-Instructor",
+    "text": "Co-Instructor\n\n\nMy name is Doha Tarek and I am an Artificial Intelligence student. During my studies, I have taken courses related to AI and completed projects that can be found on my GitHub.\n\n\nMy passion for the field of AI drives me to continuously increase my knowledge through reading books as well as taking additional courses in Machine Learning, Deep Learning, Mathematics and more. So I am excited to share with you the knowledge and skills that I have acquired so far. My aim is to provide guidance in a way that will help you reach your goals while also providing resources which may prove useful along the way.\n\n\nPractical Sessions\n\nLesson 1 : part1 part2\n\n\nLesson 2 : part1 part2\n\n\nLesson 3 : part1 part2"
+  },
+  {
+    "objectID": "index.html#our-sponsors",
+    "href": "index.html#our-sponsors",
+    "title": "Deep Learning (0 to 1)",
+    "section": "Our Sponsors",
+    "text": "Our Sponsors\nMig-Mit"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Deep Learning (0 to 1)",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\n   "
+  }
+]
